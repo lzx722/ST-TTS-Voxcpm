@@ -1,0 +1,11 @@
+{
+    "name": "VoxCPM TTS Provider",
+    "display_name": "VoxCPM TTS",
+    "description": "Standalone VoxCPM TTS provider with bracket and asterisk filtering.",
+    "version": "1.0.0",
+    "author": "SillyTavern User",
+    "loading_order": 20,
+    "js": [
+        "index.js"
+    ]
+}
